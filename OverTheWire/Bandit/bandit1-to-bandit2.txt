@@ -1,3 +1,0 @@
-Hello there! You must have noticed that there's no 'bandit0-to-bandit1.txt' in this repo. This is because the instructions are more than enough to crack the password for bandit1. Here, we'll see how I cracked the password of bandit2 from bandit1.
-Here, the password is stored in a file called '-'. If you try to run 'cat -', you might see that the terminal has become non-responsive. To stop it, just press 'Ctrl-C'. Even "cat '-'" won't work for similar reasons. The solution here is as simple as adding './' before '-'. So, you just have to type "cat ./'-'" in the terminal to get the password.
-So, that was the solution for getting the password of bandit2 from bandit1. See you in the next one!

@@ -1,2 +1,0 @@
-Welcome again! Here, we'll discuss how I went from bandit3 to bandit4. You know the drill.
-So, here the password is in a hidden file stored in the 'inhere' directory. Hidden files are the ones preceded by a '.'. Here, the 'ls' command with the '-a' flag helps tremendously. So, either 'cd' into the directory or use 'ls -a' on the directory itself and then use 'cat' normally like you would for a normal file. And, that's it! You now have the password for bandit4. See you where I discuss how I cracked the password of bandit5 from bandit4.
